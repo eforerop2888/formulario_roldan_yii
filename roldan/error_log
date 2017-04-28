@@ -1,0 +1,92 @@
+[03-Nov-2015 12:49:37 CST6CDT] PHP Parse error:  syntax error, unexpected ')', expecting '(' in /home/innclod/public_html/yii/roldan/protected/views/site/crear.php on line 61
+[03-Nov-2015 12:49:44 CST6CDT] PHP Parse error:  syntax error, unexpected ')', expecting '(' in /home/innclod/public_html/yii/roldan/protected/views/site/crear.php on line 61
+[03-Nov-2015 15:12:16 CST6CDT] PHP Parse error:  syntax error, unexpected ''ori' (T_ENCAPSED_AND_WHITESPACE) in /home/innclod/public_html/yii/roldan/protected/views/site/crear.php on line 200
+[03-Nov-2015 15:15:17 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/innclod/public_html/yii/roldan/protected/views/site/crear.php on line 419
+[03-Nov-2015 15:17:03 CST6CDT] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/innclod/public_html/yii/roldan/protected/views/site/crear.php on line 64
+[03-Nov-2015 15:17:06 CST6CDT] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/innclod/public_html/yii/roldan/protected/views/site/crear.php on line 64
+[03-Nov-2015 15:48:27 CST6CDT] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/innclod/public_html/yii/roldan/protected/views/site/crear.php on line 308
+[03-Nov-2015 15:48:44 CST6CDT] PHP Parse error:  syntax error, unexpected ''grandes_contribuyentes' (T_ENCAPSED_AND_WHITESPACE) in /home/innclod/public_html/yii/roldan/protected/views/site/crear.php on line 470
+[04-Nov-2015 06:37:27 CST6CDT] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/innclod/public_html/yii/roldan/protected/views/site/pdf.php on line 37
+[04-Nov-2015 06:39:09 CST6CDT] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/innclod/public_html/yii/roldan/protected/views/site/pdf.php on line 37
+[04-Nov-2015 06:41:27 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/innclod/public_html/yii/roldan/protected/views/site/pdf.php on line 98
+[04-Nov-2015 06:42:33 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/innclod/public_html/yii/roldan/protected/views/site/pdf.php on line 97
+[04-Nov-2015 06:43:40 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/innclod/public_html/yii/roldan/protected/views/site/pdf.php on line 83
+[04-Nov-2015 06:45:04 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/innclod/public_html/yii/roldan/protected/views/site/pdf.php on line 64
+[04-Nov-2015 07:17:35 CST6CDT] PHP Fatal error:  Cannot redeclare class Clientes in /home/innclod/public_html/yii/roldan/protected/models/Direcciones.php on line 10
+[04-Nov-2015 11:32:17 CST6CDT] PHP Parse error:  syntax error, unexpected '$form' (T_VARIABLE) in /home/innclod/public_html/yii/roldan/protected/views/site/crear.php on line 47
+[10-Nov-2015 08:28:43 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/innclod/public_html/yii/roldan/protected/views/site/crear.php on line 213
+[10-Nov-2015 15:26:15 CST6CDT] PHP Warning:  Unterminated comment starting line 590 in /home/innclod/public_html/yii/roldan/protected/views/site/crear.php on line 590
+[10-Nov-2015 15:26:15 CST6CDT] PHP Parse error:  syntax error, unexpected 'anas' (T_STRING) in /home/innclod/public_html/yii/roldan/protected/views/site/crear.php on line 591
+[10-Nov-2015 15:27:53 CST6CDT] PHP Warning:  Unterminated comment starting line 590 in /home/innclod/public_html/yii/roldan/protected/views/site/crear.php on line 590
+[10-Nov-2015 15:27:53 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/innclod/public_html/yii/roldan/protected/views/site/crear.php on line 591
+[10-Nov-2015 16:26:02 CST6CDT] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/innclod/public_html/yii/roldan/protected/views/site/crear.php on line 410
+[10-Nov-2015 17:01:22 CST6CDT] PHP Parse error:  syntax error, unexpected ''class'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/innclod/public_html/yii/roldan/protected/views/site/crear.php on line 461
+[10-Nov-2015 17:01:28 CST6CDT] PHP Parse error:  syntax error, unexpected ''class'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/innclod/public_html/yii/roldan/protected/views/site/crear.php on line 461
+[10-Nov-2015 17:01:30 CST6CDT] PHP Parse error:  syntax error, unexpected ''class'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/innclod/public_html/yii/roldan/protected/views/site/crear.php on line 461
+[10-Nov-2015 17:01:43 CST6CDT] PHP Parse error:  syntax error, unexpected ''class'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/innclod/public_html/yii/roldan/protected/views/site/crear.php on line 461
+[10-Nov-2015 17:01:45 CST6CDT] PHP Parse error:  syntax error, unexpected ''class'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/innclod/public_html/yii/roldan/protected/views/site/crear.php on line 461
+[11-Nov-2015 06:40:05 CST6CDT] PHP Parse error:  syntax error, unexpected ''class'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/innclod/public_html/yii/roldan/protected/views/site/crear.php on line 475
+[11-Nov-2015 09:20:06 CST6CDT] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/innclod/public_html/yii/roldan/protected/controllers/SiteController.php on line 137
+[11-Nov-2015 09:31:01 CST6CDT] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/innclod/public_html/yii/roldan/protected/controllers/SiteController.php on line 137
+[11-Nov-2015 09:31:09 CST6CDT] PHP Parse error:  syntax error, unexpected ''1'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/innclod/public_html/yii/roldan/protected/controllers/SiteController.php on line 137
+[11-Nov-2015 09:43:52 CST6CDT] PHP Fatal error:  Cannot use [] for reading in /home/innclod/public_html/yii/roldan/protected/controllers/SiteController.php on line 120
+[11-Nov-2015 09:44:01 CST6CDT] PHP Fatal error:  Cannot use [] for reading in /home/innclod/public_html/yii/roldan/protected/controllers/SiteController.php on line 120
+[11-Nov-2015 09:44:14 CST6CDT] PHP Fatal error:  Cannot use [] for reading in /home/innclod/public_html/yii/roldan/protected/controllers/SiteController.php on line 120
+[11-Nov-2015 09:44:16 CST6CDT] PHP Fatal error:  Cannot use [] for reading in /home/innclod/public_html/yii/roldan/protected/controllers/SiteController.php on line 120
+[11-Nov-2015 09:44:51 CST6CDT] PHP Fatal error:  Cannot use [] for reading in /home/innclod/public_html/yii/roldan/protected/controllers/SiteController.php on line 120
+[11-Nov-2015 09:45:26 CST6CDT] PHP Fatal error:  Cannot use [] for reading in /home/innclod/public_html/yii/roldan/protected/controllers/SiteController.php on line 120
+[11-Nov-2015 09:45:55 CST6CDT] PHP Fatal error:  Cannot use [] for reading in /home/innclod/public_html/yii/roldan/protected/views/site/crear.php on line 417
+[11-Nov-2015 09:50:59 CST6CDT] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY), expecting variable (T_VARIABLE) in /home/innclod/public_html/yii/roldan/protected/models/ValidarRegistro.php on line 11
+[11-Nov-2015 10:02:16 CST6CDT] PHP Parse error:  syntax error, unexpected 's' (T_STRING), expecting ')' in /home/innclod/public_html/yii/roldan/protected/models/ValidarRegistro.php on line 43
+[11-Nov-2015 10:17:01 CST6CDT] PHP Fatal error:  Cannot use [] for reading in /home/innclod/public_html/yii/roldan/protected/controllers/SiteController.php on line 120
+[11-Nov-2015 10:33:04 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting ')' in /home/innclod/public_html/yii/roldan/protected/models/ValidarRegistro.php on line 43
+[11-Nov-2015 10:35:03 CST6CDT] PHP Parse error:  syntax error, unexpected '*', expecting ')' in /home/innclod/public_html/yii/roldan/protected/models/ValidarRegistro.php on line 24
+[11-Nov-2015 10:35:36 CST6CDT] PHP Parse error:  syntax error, unexpected '*', expecting ')' in /home/innclod/public_html/yii/roldan/protected/models/ValidarRegistro.php on line 24
+[11-Nov-2015 10:35:49 CST6CDT] PHP Parse error:  syntax error, unexpected '*', expecting ')' in /home/innclod/public_html/yii/roldan/protected/models/ValidarRegistro.php on line 24
+[11-Nov-2015 10:49:39 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/innclod/public_html/yii/roldan/protected/controllers/SiteController.php on line 122
+[11-Nov-2015 10:53:17 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/innclod/public_html/yii/roldan/protected/controllers/SiteController.php on line 120
+[11-Nov-2015 10:53:42 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/innclod/public_html/yii/roldan/protected/controllers/SiteController.php on line 120
+[11-Nov-2015 10:54:07 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/innclod/public_html/yii/roldan/protected/controllers/SiteController.php on line 120
+[11-Nov-2015 10:54:36 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/innclod/public_html/yii/roldan/protected/controllers/SiteController.php on line 133
+[11-Nov-2015 11:16:19 CST6CDT] PHP Parse error:  syntax error, unexpected ''busquedaiva'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/innclod/public_html/yii/roldan/protected/controllers/SiteController.php on line 213
+[11-Nov-2015 11:31:53 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/innclod/public_html/yii/roldan/protected/views/site/crear.php on line 423
+[11-Nov-2015 15:28:57 CST6CDT] PHP Parse error:  syntax error, unexpected ''editar'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/innclod/public_html/yii_pruebas/roldan/protected/controllers/SiteController.php on line 184
+[11-Nov-2015 20:36:41 CST6CDT] PHP Parse error:  syntax error, unexpected '$id_client' (T_VARIABLE) in /home/innclod/public_html/yii_pruebas/roldan/protected/views/site/crear.php on line 33
+[11-Nov-2015 20:37:16 CST6CDT] PHP Parse error:  syntax error, unexpected '$id_client' (T_VARIABLE) in /home/innclod/public_html/yii_pruebas/roldan/protected/views/site/crear.php on line 33
+[12-Nov-2015 07:55:09 CST6CDT] PHP Fatal error:  Call to a member function createCommand() on a non-object in /home/innclod/public_html/yii_pruebas/roldan/protected/models/ConsultasDB.php on line 94
+[12-Nov-2015 07:57:21 CST6CDT] PHP Fatal error:  Call to a member function createCommand() on a non-object in /home/innclod/public_html/yii_pruebas/roldan/protected/models/ConsultasDB.php on line 94
+[12-Nov-2015 10:40:52 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/innclod/public_html/yii_pruebas/roldan/protected/controllers/SiteController.php on line 144
+[12-Nov-2015 17:24:42 CST6CDT] PHP Parse error:  syntax error, unexpected ',' in /home/innclod/public_html/yii_pruebas/roldan/protected/views/site/crear.php on line 579
+[13-Nov-2015 07:26:10 CST6CDT] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/innclod/public_html/yii_pruebas/roldan/protected/views/site/pdf.php on line 123
+[22-Nov-2015 19:13:07 CST6CDT] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/innclod/public_html/yii/roldan/protected/views/site/crear.php on line 159
+[22-Nov-2015 19:13:25 CST6CDT] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/innclod/public_html/yii/roldan/protected/views/site/crear.php on line 160
+[24-Nov-2015 07:55:42 CST6CDT] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting ')' in /home/innclod/public_html/yii_1/roldan/protected/models/ValidarRegistro.php on line 25
+[24-Nov-2015 08:10:51 CST6CDT] PHP Parse error:  syntax error, unexpected ',' in /home/innclod/public_html/yii_1/roldan/protected/models/ValidarRegistro.php on line 23
+[24-Nov-2015 08:11:07 CST6CDT] PHP Parse error:  syntax error, unexpected ',' in /home/innclod/public_html/yii_1/roldan/protected/models/ValidarRegistro.php on line 23
+[24-Nov-2015 08:13:32 CST6CDT] PHP Parse error:  syntax error, unexpected ',' in /home/innclod/public_html/yii_1/roldan/protected/models/ValidarRegistro.php on line 23
+[24-Nov-2015 08:13:53 CST6CDT] PHP Parse error:  syntax error, unexpected ',' in /home/innclod/public_html/yii_1/roldan/protected/models/ValidarRegistro.php on line 23
+[24-Nov-2015 08:14:11 CST6CDT] PHP Parse error:  syntax error, unexpected ',' in /home/innclod/public_html/yii_1/roldan/protected/models/ValidarRegistro.php on line 23
+[24-Nov-2015 08:16:38 CST6CDT] PHP Parse error:  syntax error, unexpected ',' in /home/innclod/public_html/yii_1/roldan/protected/models/ValidarRegistro.php on line 21
+[24-Nov-2015 08:17:46 CST6CDT] PHP Parse error:  syntax error, unexpected ''21. Ident' (T_ENCAPSED_AND_WHITESPACE) in /home/innclod/public_html/yii_1/roldan/protected/models/ValidarRegistro.php on line 79
+[24-Nov-2015 08:22:08 CST6CDT] PHP Parse error:  syntax error, unexpected ''operator'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/innclod/public_html/yii_1/roldan/protected/models/ValidarRegistro.php on line 19
+[24-Nov-2015 08:45:00 CST6CDT] PHP Parse error:  syntax error, unexpected ''principales_cliente' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/innclod/public_html/yii_1/roldan/protected/models/ValidarRegistro.php on line 84
+[24-Nov-2015 08:45:17 CST6CDT] PHP Parse error:  syntax error, unexpected ''principales_cliente' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/innclod/public_html/yii_1/roldan/protected/models/ValidarRegistro.php on line 84
+[24-Nov-2015 08:46:46 CST6CDT] PHP Fatal error:  Class 'ValidarRegistro' not found in /home/innclod/public_html/yii_1/roldan/protected/controllers/SiteController.php on line 257
+[24-Nov-2015 08:46:52 CST6CDT] PHP Fatal error:  Class 'ValidarRegistro' not found in /home/innclod/public_html/yii_1/roldan/protected/controllers/SiteController.php on line 257
+[24-Nov-2015 08:46:53 CST6CDT] PHP Fatal error:  Class 'ValidarRegistro' not found in /home/innclod/public_html/yii_1/roldan/protected/controllers/SiteController.php on line 257
+[24-Nov-2015 08:46:55 CST6CDT] PHP Fatal error:  Class 'ValidarRegistro' not found in /home/innclod/public_html/yii_1/roldan/protected/controllers/SiteController.php on line 257
+[24-Nov-2015 15:05:51 CST6CDT] PHP Parse error:  syntax error, unexpected ',' in /home/innclod/public_html/yii_1/roldan/protected/models/ValidarRegistro.php on line 34
+[24-Nov-2015 15:07:46 CST6CDT] PHP Parse error:  syntax error, unexpected ',' in /home/innclod/public_html/yii_1/roldan/protected/models/ValidarRegistro.php on line 34
+[24-Nov-2015 15:07:48 CST6CDT] PHP Parse error:  syntax error, unexpected ',' in /home/innclod/public_html/yii_1/roldan/protected/models/ValidarRegistro.php on line 34
+[24-Nov-2015 15:07:49 CST6CDT] PHP Parse error:  syntax error, unexpected ',' in /home/innclod/public_html/yii_1/roldan/protected/models/ValidarRegistro.php on line 34
+[24-Nov-2015 15:49:31 CST6CDT] PHP Parse error:  syntax error, unexpected ',' in /home/innclod/public_html/yii_1/roldan/protected/models/ValidarRegistro.php on line 30
+[25-Nov-2015 10:54:25 CST6CDT] PHP Fatal error:  Class ValidacionesPersonalizadas contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (CValidator::validateAttribute) in /home/innclod/public_html/yii_1/roldan/protected/extensions/ValidacionesPersonalizadas.php on line 10
+[25-Nov-2015 10:54:31 CST6CDT] PHP Fatal error:  Class ValidacionesPersonalizadas contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (CValidator::validateAttribute) in /home/innclod/public_html/yii_1/roldan/protected/extensions/ValidacionesPersonalizadas.php on line 10
+[25-Nov-2015 11:26:54 CST6CDT] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/innclod/public_html/yii_1/roldan/protected/models/ValidarRegistro.php on line 76
+[26-Nov-2015 12:31:58 CST6CDT] PHP Parse error:  syntax error, unexpected '4' (T_LNUMBER), expecting ')' in /home/innclod/public_html/yii_1/roldan/protected/views/site/crear.php on line 543
+[26-Nov-2015 12:32:09 CST6CDT] PHP Parse error:  syntax error, unexpected ''js:function(result){' (T_ENCAPSED_AND_WHITESPACE) in /home/innclod/public_html/yii_1/roldan/protected/views/site/crear.php on line 64
+[26-Nov-2015 12:35:40 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/innclod/public_html/yii_1/roldan/protected/views/site/crear.php on line 544
+[26-Nov-2015 12:43:30 CST6CDT] PHP Parse error:  syntax error, unexpected ''bot' (T_ENCAPSED_AND_WHITESPACE) in /home/innclod/public_html/yii_1/roldan/protected/views/site/crear.php on line 652
+[26-Nov-2015 12:53:33 CST6CDT] PHP Fatal error:  Class 'ValidarRegistro' not found in /home/innclod/public_html/yii_1/roldan/protected/controllers/SiteController.php on line 257
+[26-Nov-2015 13:00:43 CST6CDT] PHP Parse error:  syntax error, unexpected ''js:function(result){' (T_ENCAPSED_AND_WHITESPACE) in /home/innclod/public_html/yii_1/roldan/protected/views/site/crear.php on line 64
+[27-Nov-2015 13:34:57 CST6CDT] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/innclod/public_html/yii/framework/web/helpers/CHtml.php on line 2199
